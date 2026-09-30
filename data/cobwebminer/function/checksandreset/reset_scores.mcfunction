@@ -1,0 +1,1 @@
+scoreboard players set @s cobwebminer-cobweb-mined 0

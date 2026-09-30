@@ -1,0 +1,1 @@
+execute if score @s cobwebminer-cobweb-mined matches 1.. run function cobwebminer:mine/mined

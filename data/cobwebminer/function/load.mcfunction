@@ -1,0 +1,1 @@
+scoreboard objectives add cobwebminer-cobweb-mined minecraft.mined:minecraft.cobweb
